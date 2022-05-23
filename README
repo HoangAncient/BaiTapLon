@@ -1,0 +1,7 @@
+
+
+made by <3 :
+
+
+Compile it using (SDL2 needed):
+g++ -w -lSDL2 -lSDL2_ttf -lSDL2_image -lSDL2_mixer
